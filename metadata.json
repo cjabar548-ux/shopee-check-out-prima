@@ -1,0 +1,6 @@
+{
+  "name": "Checkout Pesanan",
+  "description": "Halaman checkout e-commerce lengkap dengan ringkasan produk, opsi pengiriman, voucher, dan rincian pembayaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
